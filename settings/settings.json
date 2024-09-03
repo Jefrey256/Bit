@@ -1,0 +1,13 @@
+{
+  "prefix": "*",
+  "NomeDoBot": "Jefrey",
+  "ownerName": "Sayko",
+  "channel": "https://chat.whatsapp.com/FQ3jbCX9vXOC0sYM0EcL5e",
+  "group": "https://chat.whatsapp.com/FQ3jbCX9vXOC0sYM0EcL5e",
+  "ownerNumber": "559481266028",
+  "CREDENTIALS_USER": {
+     "API_KEY_AKAME": "Yurizinn1920",
+     "API_URL": "https://yurimodz-apis.xyz"
+  },
+  "WARNING_NUMBER": "🌟 Olá, para configurar seu número na bot é preciso copiar da forma que está no WhatsApp, por exemplo: '556596947474', se seu número conter um caractere à mais, adicione no número, dúvidas? Use o comando: [Prefix]Configurar-bot ou entre em contato com o criador do bot. Desde já, obrigado pela a atenção!"
+}
